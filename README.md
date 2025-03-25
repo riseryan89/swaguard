@@ -20,7 +20,7 @@ pip install swaguard
 또는 소스에서 직접 설치:
 
 ```bash
-git clone https://github.com/username/swaguard.git
+git clone https://github.com/riseryan89/swaguard.git
 cd swaguard
 pip install -e .
 ```
@@ -118,12 +118,12 @@ cd examples
 python fastapi_example.py
 ```
 
-그런 다음 브라우저에서 http://localhost:8000/docs 에 접속하면 로그인 페이지로 리다이렉트됩니다.
+그런 다음 브라우저에서 http://localhost:<your-port>/docs 에 접속하면 로그인 페이지로 리다이렉트됩니다.
 
 ## 라이선스
 
 MIT
 
-## 기여하기
+## 컨트리뷰션
 
 Pull Request 및 이슈 제출을 환영합니다. 주요 변경 사항에 대해서는 먼저 이슈를 통해 논의해 주세요.

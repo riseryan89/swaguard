@@ -7,11 +7,11 @@ setup(
     name="swaguard",
     version="0.1.0",
     author="Ryan",
-    author_email="your.email@example.com",
+    author_email="rise.ryan.lee@gmail.com",
     description="A library to protect Swagger/OpenAPI UI in FastAPI and Django applications",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/swaguard",
+    url="https://github.com/riseryan89/swaguard",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
